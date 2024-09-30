@@ -16,7 +16,7 @@
  [OOP](OOP.pdf)
 
 * **Explain SOLID Concepts.**
- [SOLID](SOLID.pdf)
+ [SOLID](SOLID .pdf)
 
 
 * **Differences between abstract classes and interfaces?**
