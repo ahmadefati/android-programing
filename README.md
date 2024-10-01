@@ -37,7 +37,8 @@
 * **Can an Interface implement another Interface?**
   - Yes, an interface can implement another interface (and more than one), but it needs to use `extends`, rather than `implements` keyword. And while you can not remove methods from parent interface, you can add new ones freely to your sub-interface.
 
-#### Collections and Generics
+#### Collections and Array And ArrayList
+[ArrayVsCollections](ArrayVsCollections.pdf)
 
 * **Arrays Vs ArrayLists** - [Learn from here](https://stackoverflow.com/questions/32020000/what-is-the-difference-between-an-array-arraylist-and-a-list/32020072)
 
@@ -45,7 +46,7 @@
 
 * **HashMap Vs Set** - [Learn from here](https://stackoverflow.com/questions/2773824/difference-between-hashset-and-hashmap)
 
-* **Explain Generics in Java?**
+[boxingAndUnboxing](boxingAndUnboxing.pdf)
 
 #### Objects and Primitives
 
